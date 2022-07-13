@@ -42,7 +42,7 @@ body{
 }
 
 .body-top{
-    background-image: url(/assets/img/main-space-back.png);
+    background-image: url(assets/img/main-space-back.png);
     background-size: cover;
     height: 100%;
     max-height: 1200px;
